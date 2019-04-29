@@ -33,7 +33,7 @@ number_counties <- 3
 main_color <- "LightBlue"
 signal_color <- "black"
 
-#fixing bull shit pt 2
+#fixing variable type again
 relative2white$state <- as.character(relative2white$state)
 
 #summarised dataset by states
